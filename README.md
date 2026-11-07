@@ -32,3 +32,7 @@ Rolit est un jeu de stratégie au tour par tour. L'objectif est d'encercler les 
    ```bash
    git clone [https://github.com/VOTRE_PSEUDO/rolit-python.git](https://github.com/VOTRE_PSEUDO/rolit-python.git)
    cd rolit-python
+2. **Lancer le jeu :**
+
+Bash
+python main.py
